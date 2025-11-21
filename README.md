@@ -25,20 +25,6 @@ I’m Pich Lyheang, a passionate developer and designer, always exploring new te
 **Tools & Platforms:**  
 `Git` | `GitHub` | `Vercel` | `Figma` | `Photoshop` | `PostgreSQL` | `Illustrator`
 
-You said:
-I define you as a expert of github and build readme profile in github
-
-
-ChatGPT said:
-Updated saved memory
-Got it — I’m now your GitHub and README profile expert.
-
-
-
-
-
-
-
 ## Hi there 👋
 
 Welcome to my GitHub profile!  
