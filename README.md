@@ -6,7 +6,7 @@ I’m Pich Lyheang, a passionate developer and designer, always exploring new te
 ---
 
 ### 🚀 About Me
-- 💻 **Currently working on:** Innovative web and mobile applications using modern frameworks.
+- 💻 **Currently working on:** Innovative web and mobile applications of MoEYS project by using modern frameworks .
 - 📚 **Currently learning:** Next.js, Flutter, and basic development with Spring Boot.
 - 🤝 **Looking to collaborate on:** Open-source projects, creative app designs, and innovative tech solutions.
 - 🛠 **Looking for help with:** Scaling full-stack applications and cloud deployment best practices.
